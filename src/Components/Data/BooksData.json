@@ -1,0 +1,109 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://i.ibb.co/vHHh4jj/book9.jpg",
+    "review": "A gripping psychological thriller that keeps you on the edge of your seat until the very end. The twist is brilliantly executed, and the writing is sharp and captivating.",
+    "totalPages": 368,
+    "rating": 4.5,
+    "category": "Thriller",
+    "tags": ["Suspense", "Psychological", "Mystery"],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/2jjT37q/book8.jpg",
+    "review": "A classic story of love, wealth, and social disparity in 1920s America. Fitzgerald's writing beautifully captures the essence of the Jazz Age and its complexities.",
+    "totalPages": 180,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": ["Romance", "American Literature", "Tragedy"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/PmzgB9v/book7.jpg",
+    "review": "A dystopian masterpiece that explores the dangers of totalitarianism and the surveillance state. Orwell's vision of a controlled society remains deeply relevant today.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Dystopian",
+    "tags": ["Political", "Dystopia", "Science Fiction"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://i.ibb.co/FWLdk96/book6.jpg",
+    "review": "An inspiring journey of a young shepherd seeking his personal legend. Coelho weaves a tale about following your dreams and listening to your heart.",
+    "totalPages": 208,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Adventure", "Motivation", "Philosophical"],
+    "publisher": "HarperOne",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 5,
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://i.ibb.co/TvFP830/book5.jpg",
+    "review": "A compelling exploration of the history of humanity, from the dawn of Homo sapiens to the present. Harari offers a thought-provoking look at our past, present, and future.",
+    "totalPages": 498,
+    "rating": 4.8,
+    "category": "Non-fiction",
+    "tags": ["History", "Anthropology", "Philosophy"],
+    "publisher": "Harvill Secker",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 6,
+    "bookName": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "image": "https://i.ibb.co/ZmNS5v5/book4.jpg",
+    "review": "A beautiful and haunting tale of isolation, nature, and love. Owens' writing evokes a deep sense of place and character, and the mystery at the heart of the story is deeply moving.",
+    "totalPages": 384,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Mystery", "Nature", "Romance"],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 7,
+    "bookName": "Educated",
+    "author": "Tara Westover",
+    "image": "https://i.ibb.co/4fjHhr5/book2.jpg",
+    "review": "A powerful memoir about growing up in a strict and isolated family. Westover's story of her escape to education is a testament to perseverance and the importance of knowledge.",
+    "totalPages": 334,
+    "rating": 4.9,
+    "category": "Memoir",
+    "tags": ["Autobiography", "Education", "Resilience"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 8,
+    "bookName": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://i.ibb.co/T4tGCzC/book1.jpg",
+    "review": "An intimate and inspiring memoir from the former First Lady of the United States. Obama's candid storytelling offers a look into her journey of personal growth and public life.",
+    "totalPages": 448,
+    "rating": 4.7,
+    "category": "Biography",
+    "tags": ["Autobiography", "Politics", "Inspiration"],
+    "publisher": "Crown Publishing Group",
+    "yearOfPublishing": 2018
+  }
+]
+
+
+
